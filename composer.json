@@ -1,0 +1,14 @@
+{
+    "name": "mikayelyan/rest_integration",
+    "description": "Integration with coingecko.com",
+    "type": "library",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "rubmiq",
+            "email": "rubmiq@bk.ru"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
